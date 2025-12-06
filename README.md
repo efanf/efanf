@@ -1,16 +1,18 @@
-## Hi there 👋
+### Hi there, I'm Efan! 👋
 
-<!--
-**efanf/efanf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Seorang mahasiswa **Manajemen Pendidikan Islam** yang antusias menjembatani dunia pendidikan, manajemen, dan teknologi.
 
-Here are some ideas to get you started:
+Saya percaya bahwa pemahaman teknologi adalah kunci produktivitas bisnis modern. Saat ini sedang mendalami ekosistem *Open Source* untuk mempersiapkan diri menghadapi tantangan industri masa depan.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+🛠 **Tech & Tools I'm Learning:**
+- **Version Control:** Git & GitHub (Collaboration Workflow)
+- **Productivity:** VS Code, Project Management
+- **Focus:** Digital Transformation in Education & Business
+
+📈 **My Stats:**
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=efanf&show_icons=true&theme=radical)
+
+---
+*Let's connect and collaborate on creating efficient systems!*
